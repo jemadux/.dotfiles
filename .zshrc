@@ -108,4 +108,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 # Zoxide
-eval "$(zoxide init zsh)"
+eval "$(zoxide init  --cmd cd zsh)"
