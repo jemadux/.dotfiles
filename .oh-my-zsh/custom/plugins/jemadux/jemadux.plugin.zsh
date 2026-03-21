@@ -62,3 +62,5 @@ alias cmake-cores='cmake --build . --parallel $(nproc)'
 alias tb="nc termbin.com 9999"
 alias lzd='lazydocker'
 alias srb='sudo systemctl soft-reboot'
+## arch-based 
+alias yay='paru'
