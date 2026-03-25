@@ -43,13 +43,18 @@ and fixing the cursor on flatpak applications , you can run as single commands
 Because I am using Spaceship prompt , I want be so much clean 
 just two lines - like 
 ``
-$PWD 
-❯
-``
 and not showing the spaces :) 
 
 # neovim 
 I am using lazyvim  
-Theme = ayu-dark 
+Theme = lexoki dark
 spellchecking = Greek and US English 
 
+tmux config 
+Full Flexoki Dark palette (#100f0f base → all 8 accent hues)
+Status bar — session name badge in Flexoki blue (left), date/time/host (right)
+Active window tab with subtle bg highlight and green zoom indicator
+Pane borders: dim inactive, blue active
+Copy mode, messages, clock — all themed consistently
+Vi-style keybinds: |/- for splits, h/j/k/l navigation, prefix+r to reload
+Mouse support, 256-color + RGB truecolor enabled
