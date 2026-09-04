@@ -1,13 +1,13 @@
 [user]
-name = Joe Doe
-email = joe@doe.com 
-signingkey =1A2B3C4D5E6F7890
+	name = Klearchos Angelos Gkountras
+	email = angelosdkg@gmail.com
+	signingkey = E588448C3F7DA01F
 [github]
-user = joe.doe
-token = Classic-token-generated
+user = angelosdkg
+token = github_pat_random-numbers
 [commit]
-gpgsign = true
+	gpgsign = true
 [gpg]
-program = /usr/bin/gpg
+	program = /usr/bin/gpg
 [core]
 	editor = nvim
